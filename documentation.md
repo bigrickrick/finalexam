@@ -1,6 +1,6 @@
 answer question 1
 
-a.	Class Diagram (5 points): it is used to represent Class and object in a software, their properties and their relationship between each other. For example: a class      diagram of a Fps game can show us all of the classes and their relationship to each other. 
+  a.	Class Diagram (5 points): it is used to represent Class and object in a software, their properties and their relationship between each other. For example: a class      diagram of a Fps game can show us all of the classes and their relationship to each other. 
   
   b.	Activity Diagram (5 points) : a Activity diagram is use to show the steps the software takes to accomplish tasks. For example: in video game an activity diagram        will show you all of the steps that the game take to do something.
   
